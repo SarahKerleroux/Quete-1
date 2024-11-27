@@ -1,2 +1,0 @@
-# quete1
-# helloWorld
