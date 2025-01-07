@@ -1,3 +1,3 @@
-Git/GitHub 1 : Découvrir GitHub
+# Git/GitHub 1 : Découvrir GitHub
 
-# helloWorld
+helloWorld
